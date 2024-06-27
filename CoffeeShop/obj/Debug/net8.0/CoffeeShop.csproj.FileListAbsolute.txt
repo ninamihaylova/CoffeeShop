@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\bin\Debug\net8.0\CoffeeShop.exe
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\bin\Debug\net8.0\CoffeeShop.deps.json
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\bin\Debug\net8.0\CoffeeShop.runtimeconfig.json
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\bin\Debug\net8.0\CoffeeShop.dll
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\bin\Debug\net8.0\CoffeeShop.pdb
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.dll
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\refint\CoffeeShop.dll
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.pdb
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\ref\CoffeeShop.dll
